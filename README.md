@@ -22,8 +22,8 @@ This repository follows a **modular FastAPI architecture** for scalability, clar
 - Pagination *(optional)*  
 
 ### ✉️ Email Workflows
-- Password reset via email  
-- Optional email verification  
+- Password reset via email 
+- Optional email verification 
 
 ### 🧱 Clean Architecture
 - Modular code structure  
@@ -50,7 +50,7 @@ This repository follows a **modular FastAPI architecture** for scalability, clar
 ## 🔧 Installation & Setup
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/iam-anilsolanki/User_Management_System-FastAPI.git
+git clone https://github.com/iam-anilsolanki/User_Management_System-FastAPI.git 
 cd User_Management_System-FastAPI
 
 
