@@ -51,17 +51,16 @@ This repository follows a **modular FastAPI architecture** for scalability, clar
 
 ### 1️⃣ Clone the Repository
 git clone https://github.com/iam-anilsolanki/User_Management_System-FastAPI.git 
-cd User_Management_System-FastAPI
 
 
-## Create Virtual Environment
+### 🧪 Create Virtual Environment
 python -m venv venv
 source venv/bin/activate        # macOS/Linux
 venv\Scripts\activate           # Windows
 
-## Install All Dependencies
+### 📄 Install All Dependencies
 pip install -r final_app/requirements.txt
 
-## Run The Server 
+### 🚀 Run The Server 
 uvicorn final_app.main:app --reload
 
