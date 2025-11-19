@@ -49,7 +49,7 @@ This repository follows a **modular FastAPI architecture** for scalability, clar
 
 ## 🔧 Installation & Setup
 
-### 1️⃣ Clone the Repository
+### 📥 Clone the Repository
 git clone https://github.com/iam-anilsolanki/User_Management_System-FastAPI.git 
 
 
